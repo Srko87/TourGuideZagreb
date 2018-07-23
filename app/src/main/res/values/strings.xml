@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">TourGuideZagreb</string>
+    <string name="welcome_message">Welcome to Zagreb</string>
+    <string name="general_info">Zagreb is the capital and the largest city of Croatia.
+        It is located in the northwest of the country, along the Sava river, at the southern slopes of the Medvednica mountain.
+        Zagreb lies at an elevation of approximately 122 m above sea level. The estimated population of the city in 2018 is 809,932.</string>
+    <string name="main_square">Zagreb Main Square</string>
+    <string name="main_square_info">The official name is Trg bana Jelačića. The square is colloquially called Jelačić plac.
+    It is located below Zagreb\'s old city cores Gradec and Kaptol and directly south of the Dolac Market on the intersection of Ilica from the west and Radićeva Street from the northwest.
+    </string>
+    <string name="entries">Entries</string>
+    <string name="city">City</string>
+    <string name="home">Home</string>
+    <string name="food">Food</string>
+    <string name="nightlife">Nightlife</string>
+    <string name="sightseeing">Sightseeing</string>
+    <string name="city_hall">City hall</string>
+    <string name="city_hall_info">The Old City Hall (Croatian: Stara gradska vijećnica) is a complex of three adjacent buildings located in the Gradec neighbourhood in Zagreb, Croatia.
+        The three buildings were joined in the late 19th century and since then, the complex has served as the place where all sessions of the city assembly are held. </string>
+    <string name="st_mark_church">Church of St. Mark</string>
+    <string name="st_mark_church_info">The Church of St. Mark is the parish church of old Zagreb, Croatia, located in St. Mark\'s square</string>
+    <string name="zrinjevac">Zrinjevac</string>
+    <string name="zrinjevac_info">Just around the corner from the central square is one of the most romantic places in Zagreb, Zrinjevac Park. Your first impression will be of a green and floral promenade – this is where art lovers flock in droves. </string>
+    <string name="cathedral">Zagreb Cathedral</string>
+    <string name="cathedral_info">The Zagreb Cathedral on Kaptol is a Roman Catholic institution and not only the tallest building in Croatia but also the most monumental sacral building in Gothic style southeast of the Alps.</string>
+    <string name="ribnjak">Ribnjak</string>
+    <string name="ribnjak_info">The Ribnjak Park is situated on the west side of Ribnjak Street.  Located five minutes of walk away from Ban Jelačić Square, the park comprises the western part of the neighborhood. It is also the location of Youth Center Ribnjak and the Purgeraj club.</string>
+    <string name="la_struk">La štruk</string>
+    <string name="la_struk_info">One of Zagreb’s most popular one-dish bistros is La Štruk,” says Andrea Pisac, founder of city blog Zagreb Honestly. “Partly because štrukli (baked filo dough and cottage cheese; moreish but slightly sickly) is an authentic food, and partly because the place keeps thinking up new twists.” La Štruk has a really attractive tree-shaded back patio between stone buildings – ideal for trying štrukl twists such as pumpkin-pesto and blueberry.</string>
+    <string name="sherry_wine_bar">Sherry\'s Wine Bar and Bites</string>
+    <string name="sherry_wine_bar_info">Another dvorišta haunt, relaxed Sherry’s Wine Bar and Bites serves quality tipples from across Croatia, including craft beers. The bites are by Italian chef Gregorio Mannucci, formerly of the upscale Apetit restaurant, and range from burgers to plates of sausage or cheese. Evenings are vibrant here: some sit on a fairy-lit terrace, while others groove to jazz bands inside.</string>
+    <string name="dubravkin_put">Dubravkin Put</string>
+    <string name="dubravkin_put_info">At its northern end, the Upper Town slopes downwards into enchanting Tuškanac forest, full of silent trails and giant trees, and curiously deserted. Just inside is Dubravkin Put, “a fine-dining restaurant that’s as classy as its unique location,” according to Andrea. Seafood has long been the speciality here, so choose the fish menu and start with a tartare of sea bream plus cooling green-pea sorbet.</string>
+    <string name="bistro_vjestica">Bistro Vještica</string>
+    <string name="bistro_vjestica_info">Handily located near the top of the funicular, Bistro Vještica serves hearty dishes like schnapps-flambéed chicken breasts, and bacon-wrapped pork medallions doused in mushroom gravy. Beers by Garden Brewery – a sister enterprise to Croatia’s most famous music festival – are on offer, while lantern-lit tables render it all suitably romantic.</string>
+    <string name="vintage">Vintage Industrial Bar</string>
+    <string name="vintage_info">The bar is situated in an old factory building. That reflects in attractively robust interior design. It has several slightly separated areas, so it\'s suitable for everything from friends meet-ups and private parties to concerts and clubbing. You can even grab a midnight snack there. </string>
+    <string name="beertija">Beertija</string>
+    <string name="beertija_info">It\'s a perfect evening meeting spot for groups of friends, or even couples, because it has many separated corners for a healthy dose of intimacy. Other than that, it\'s interior is pretty rustic with wooden furniture, just like a beer house should be. </string>
+    <string name="tvornica">Tvornica Kulture</string>
+    <string name="tvornica_info">This is one of the most famous Zagreb night-clubs, always in perfect balance between mainstream and alternative music. They\'re bringing so many great performers to Zagreb. </string>
+    <string name="gric_tunnel">Grič Tunnel</string>
+    <string name="gric_tunnel_info">Grič Tunnel (Croatian: Tunel Grič) is a pedestrian tunnel located in the city centre of Zagreb, Croatia, under the historic neighbourhood of Grič (also called Gradec or Gornji Grad), which gave the tunnel its name.</string>
+    <string name="lotrscak_tower">Lotršćak Tower</string>
+    <string name="lotrscak_tower_info">The Lotrščak Tower (Croatian: Kula Lotrščak, pronounced [kǔːla lotrʃtʃâːk]) is a fortified tower located in Zagreb, Croatia, in an old part of town called Gradec or Gornji grad (Upper Town)</string>
+    <string name="broken_museum">Museum of Broken Relationships</string>
+    <string name="broken_museum_info">The Museum of Broken Relationships (Croatian: Muzej prekinutih veza) is a museum in Zagreb, Croatia, dedicated to failed love relationships. Its exhibits include personal objects left over from former lovers, accompanied by brief descriptions. </string>
+
+
+
+
+
+</resources>
